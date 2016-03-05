@@ -1,2 +1,3 @@
 # gotour
-Solutions to exercises in the go tour
+
+Solutions to exercises in the Golang tour and other misc snippets. Enjoy!
